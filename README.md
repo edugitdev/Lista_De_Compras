@@ -1,2 +1,4 @@
-# TO-DO-List
-to-do -list_JS
+#plataforma_Lista de Compras
+=> desenvolvido com HTML/CSS/JS.
+
+por:Eduardo Alves de Paulo Ferrreira
