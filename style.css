@@ -104,8 +104,9 @@
     #btn-ok:hover{
         background-color: var(--color-green2);
     }
- @media screen {
-#input-new-task{
-    width: 10rem;
+ @media screen and (max-width: 768px)
+{
+    #input-new-task{
+    width: 9rem;
 }
  }
