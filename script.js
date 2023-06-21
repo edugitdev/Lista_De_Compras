@@ -34,6 +34,9 @@ function newTask()
         showValues()   
     }
     input.value = ''
+    input.focus()//implementoFocus
+    
+
 }
 
 function showValues()

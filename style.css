@@ -87,7 +87,7 @@
 
     #btn-ok{
        border: none;
-       background-color: var(--color-purple);
+       background-color: var(--color-green);
        color: var(--color-white);
        font-size: 1rem;
        padding: .4rem .8rem;
@@ -107,6 +107,6 @@
  @media screen and (max-width: 768px)
 {
     #input-new-task{
-    width: 9rem;
+    width: 10rem;
 }
  }
