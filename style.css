@@ -34,7 +34,8 @@
     }
 
     #input-new-task,
-    #btn-new-task {
+    #btn-new-task,
+    #value-product {
         border: none;
         font-size: 1rem;
         outline: none;
@@ -45,7 +46,12 @@
         width: 20rem;
         border-radius: 1rem;
     }
-
+    #value-product{
+        width: 5rem;
+        border-radius: 1rem;
+       
+    }
+ 
     #btn-new-task {
         background-color: var(--color-dark2);
         color: var(--color-white);
@@ -75,7 +81,6 @@
         align-items: center;
         justify-content: space-between;
     }
-
 
     #to-do-list li:hover{
         background-color: var(--color-dark3);
@@ -108,5 +113,9 @@
 {
     #input-new-task{
     width: 10rem;
+}
+#value-product{
+    width: 35px;
+    font-size: 12px;
 }
  }
